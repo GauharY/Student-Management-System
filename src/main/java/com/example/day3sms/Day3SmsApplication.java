@@ -1,5 +1,8 @@
 package com.example.day3sms;
-
+//controller -> request
+//service -> logic
+//repository -> database
+//model -> data schema
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
